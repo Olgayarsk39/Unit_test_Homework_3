@@ -6,5 +6,5 @@
 2. Разработайте и протестируйте метод numberInInterval, который проверяет, попадает ли переданное число в интервал (25;100
 
   *Решение дз №3*
-  [Work3](src/seminars/first/hw)
-    [Test](Test/seminars/first/hw)
+  [Work3](src/seminars/third/hw)
+    [Test](Test/seminars/third/hw)
